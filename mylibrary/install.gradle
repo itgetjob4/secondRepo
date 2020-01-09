@@ -28,8 +28,8 @@ install {
                     }
                 }
                 scm {
-                    connection 'https://github.com/AntonioCappiello/date-utils.git' // YOUR GIT REPO
-                    developerConnection 'https://github.com/AntonioCappiello/date-utils.git' // YOUR GIT REPO
+                    connection 'https://github.com/itgetjob4/secondRepo.git' // YOUR GIT REPO
+                    developerConnection 'https://github.com/itgetjob4/secondRepo.git' // YOUR GIT REPO
                     url 'https://github.com/itgetjob4' // YOUR SITE
 
                 }
